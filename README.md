@@ -107,7 +107,7 @@ All model outputs, visualizations, and prediction results are included in this r
 # 🔗 Links
 
 * 📓 Google Colab Notebook:https://colab.research.google.com/drive/1Mr8gLRXLhy2d3YISg2eOb-fQ2z-k3R7s#scrollTo=Mos9wIUgxe7N
-* 💼 LinkedIn Post: 
+* 💼 LinkedIn Post: https://www.linkedin.com/posts/pallavi-sowreddi-421313368_machinelearning-nlp-python-activity-7439679776166060032-HbT2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFsry5kB2nChrqlIn88PU_V0-AGv5cZCQkQ
 
 ---
 
